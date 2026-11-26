@@ -3,11 +3,6 @@
 | Part | Topic | Weight | Where |
 |------|-------|--------|-------|
 | 1 | Monte Carlo Tree Search move generator for Connect Four | 60% | `connect4_mcts.py`, `test_connect4_mcts.py`, `REPORT.md` |
-| 2 | Propositional logic – satisfiability | 10% | `LOGIC_ANSWERS.md` |
-| 3 | Models (model counting) | 10% | `LOGIC_ANSWERS.md` |
-| 4 | Propositional logic – resolution | 20% | `LOGIC_ANSWERS.md` |
-
-Parts 2–4 are written answers only (no code).
 
 _mcts.py   unit tests
 ```
