@@ -1,8 +1,8 @@
 # connect4-mcts-ai
 
-| Part | Topic | Weight | Where |
-|------|-------|--------|-------|
-| 1 | Monte Carlo Tree Search move generator for Connect Four | 60% | `connect4_mcts.py`, `test_connect4_mcts.py`, `REPORT.md` |
+| Part | Topic | Where |
+|------|-------|-------|
+| 1 | Monte Carlo Tree Search move generator for Connect Four | `connect4_mcts.py`, `test_connect4_mcts.py`, `REPORT.md` |
 
 _mcts.py   unit tests
 ```
